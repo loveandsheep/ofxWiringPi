@@ -22,7 +22,7 @@
 
 
 class ofxWiringPi {
-
+public:
 	void setupi2c() {
 		system("gpio load i2c");
 	}
