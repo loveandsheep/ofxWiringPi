@@ -1,4 +1,6 @@
-#include "include/mcp3002.h"  
+#include <stdlib.h>
+#include <stdio.h>
+#include "include/mcp3002.h"
 #include "include/mcp4802.h"  
 #include "include/softPwm.h"   
 #include "include/sr595.h"       
